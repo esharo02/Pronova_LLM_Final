@@ -170,7 +170,7 @@ const Chatbot = () => {
       >
         {/* <Text fontSize="70px" fontWeight="bold">How Can I Help You Today?</Text> */}
         {/* <Text fontSize="6xl" fontWeight="bold">How Can I Help You Today?</Text> */}
-        <Text fontSize={{ base: "2xl", sm: "3xl", md: "4xl", lg: "5xl", xl: "6xl" }} fontWeight="bold">How Can I Help You Today!</Text>
+        <Text fontSize={{ base: "2xl", sm: "3xl", md: "4xl", lg: "5xl", xl: "6xl" }} fontWeight="bold">How Can I Help You Today?</Text>
       </Box>
 
       {/* /* Name, age, and Breed Prompt */}
