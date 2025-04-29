@@ -1,0 +1,11 @@
+{
+  "name": "llm-proof-of-concept",
+  "version": "0.0.0",
+  "scripts": {
+    "build": "cd frontend_V1 && npm run build",
+    "heroku-postbuild": "cd frontend_V1 && npm install && npm run build"
+  },
+  "engines": {
+    "node": "20.x"
+  }
+}
