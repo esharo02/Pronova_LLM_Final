@@ -7,3 +7,6 @@ python-dotenv
 IPython
 gunicorn
 numpy
+requests
+bs4
+ipykernel
