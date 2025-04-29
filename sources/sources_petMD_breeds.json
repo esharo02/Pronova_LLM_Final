@@ -1,0 +1,1550 @@
+{
+    "Affenpinscher.txt": {
+        "Topic": "Affenpinscher",
+        "URL": "https://www.petmd.com/dog/breeds/affenpinscher",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Oct. 22, 2024"
+    },
+    "Afghan_Hound.txt": {
+        "Topic": "Afghan Hound",
+        "URL": "https://www.petmd.com/dog/breeds/afghan-hound",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Oct. 17, 2024"
+    },
+    "Airedale_Terrier.txt": {
+        "Topic": "Airedale Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/airedale-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 30, 2023"
+    },
+    "Akita.txt": {
+        "Topic": "Akita",
+        "URL": "https://www.petmd.com/dog/breeds/akita",
+        "Author": "Katherine Smith, DVM, CVA, CVSMT",
+        "Date": "Jan. 8, 2025"
+    },
+    "Alaskan_Klee_Kai.txt": {
+        "Topic": "Alaskan Klee Kai",
+        "URL": "https://www.petmd.com/dog/breeds/alaskan-klee-kai",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 27, 2023"
+    },
+    "Alaskan_Malamute.txt": {
+        "Topic": "Alaskan Malamute",
+        "URL": "https://www.petmd.com/dog/breeds/alaskan-malamute",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 9, 2023"
+    },
+    "American_Bulldog.txt": {
+        "Topic": "American Bulldog",
+        "URL": "https://www.petmd.com/dog/breeds/american-bulldog",
+        "Author": "Molly Price, DVM",
+        "Date": "Feb. 20, 2025"
+    },
+    "American_English_Coonhound.txt": {
+        "Topic": "American English Coonhound",
+        "URL": "https://www.petmd.com/dog/breeds/american-english-coonhound",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Dec. 23, 2024"
+    },
+    "American_Eskimo_Dog.txt": {
+        "Topic": "American Eskimo Dog",
+        "URL": "https://www.petmd.com/dog/breeds/american-eskimo-dog",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Oct. 9, 2023"
+    },
+    "American_Foxhound.txt": {
+        "Topic": "American Foxhound",
+        "URL": "https://www.petmd.com/dog/breeds/american-foxhound",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 21, 2024"
+    },
+    "American_Hairless_Terrier.txt": {
+        "Topic": "American Hairless Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/american-hairless-terrier",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Jul. 24, 2024"
+    },
+    "American_Pit_Bull_Terrier.txt": {
+        "Topic": "American Pit Bull Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/american-pit-bull-terrier",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Mar. 13, 2023"
+    },
+    "American_Staffordshire_Terrier.txt": {
+        "Topic": "American Staffordshire Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/american-staffordshire-terrier",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Feb. 1, 2023"
+    },
+    "American_Water_Spaniel.txt": {
+        "Topic": "American Water Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/american-water-spaniel",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Nov. 25, 2024"
+    },
+    "Aussiedoodle.txt": {
+        "Topic": "Aussiedoodle",
+        "URL": "https://www.petmd.com/dog/breeds/aussiedoodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 24, 2023"
+    },
+    "Australian_Cattle_Dog.txt": {
+        "Topic": "Australian Cattle Dog",
+        "URL": "https://www.petmd.com/dog/breeds/australian-cattle-dog",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "May 11, 2022"
+    },
+    "Australian_Kelpie.txt": {
+        "Topic": "Australian Kelpie",
+        "URL": "https://www.petmd.com/dog/breeds/australian-kelpie",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Aug. 23, 2023"
+    },
+    "Australian_Shepherd.txt": {
+        "Topic": "Australian Shepherd",
+        "URL": "https://www.petmd.com/dog/breeds/australian-shepherd",
+        "Author": "Katie Ryan, DVM",
+        "Date": "Jan. 23, 2025"
+    },
+    "Australian_Terrier.txt": {
+        "Topic": "Australian Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/australian-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 10, 2024"
+    },
+    "Azawakh.txt": {
+        "Topic": "Azawakh",
+        "URL": "https://www.petmd.com/dog/breeds/azawakh",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Nov. 18, 2024"
+    },
+    "Basenji.txt": {
+        "Topic": "Basenji",
+        "URL": "https://www.petmd.com/dog/breeds/basenji",
+        "Author": "Emily A. Fassbaugh, DVM",
+        "Date": "Mar. 7, 2023"
+    },
+    "Basset_Hound.txt": {
+        "Topic": "Basset Hound",
+        "URL": "https://www.petmd.com/dog/breeds/basset-hound",
+        "Author": "Emily A. Fassbaugh, DVM",
+        "Date": "Dec. 30, 2024"
+    },
+    "Beagle.txt": {
+        "Topic": "Beagle",
+        "URL": "https://www.petmd.com/dog/breeds/beagle",
+        "Author": "Tiffany Paul, DVM",
+        "Date": "Jun. 18, 2024"
+    },
+    "Bearded_Collie.txt": {
+        "Topic": "Bearded Collie",
+        "URL": "https://www.petmd.com/dog/breeds/bearded-collie",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 28, 2024"
+    },
+    "Beauceron.txt": {
+        "Topic": "Beauceron",
+        "URL": "https://www.petmd.com/dog/breeds/beauceron",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Jul. 17, 2023"
+    },
+    "Bedlington_Terrier.txt": {
+        "Topic": "Bedlington Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/bedlington-terrier",
+        "Author": "Jennifer Coates, DVM",
+        "Date": "Dec. 27, 2023"
+    },
+    "Belgian_Malinois.txt": {
+        "Topic": "Belgian Malinois",
+        "URL": "https://www.petmd.com/dog/breeds/belgian-malinois",
+        "Author": "Brittany Grenus, DVM",
+        "Date": "Jan. 14, 2025"
+    },
+    "Belgian_Sheepdog_(Groenendael).txt": {
+        "Topic": "Belgian Sheepdog (Groenendael)",
+        "URL": "https://www.petmd.com/dog/breeds/belgian-sheepdog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 10, 2023"
+    },
+    "Belgian_Tervuren.txt": {
+        "Topic": "Belgian Tervuren",
+        "URL": "https://www.petmd.com/dog/breeds/belgian-tervuren",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jan. 22, 2024"
+    },
+    "Bergamasco.txt": {
+        "Topic": "Bergamasco",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_bergamasco",
+        "Author": "PetMD Editorial",
+        "Date": "Dec. 9, 2011"
+    },
+    "Berger_Picard.txt": {
+        "Topic": "Berger Picard",
+        "URL": "https://www.petmd.com/dog/breeds/berger-picard",
+        "Author": "Kelly Gold, DVM",
+        "Date": "Nov. 25, 2024"
+    },
+    "Bernedoodle.txt": {
+        "Topic": "Bernedoodle",
+        "URL": "https://www.petmd.com/dog/breeds/bernedoodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 18, 2023"
+    },
+    "Bernese_Mountain_Dog.txt": {
+        "Topic": "Bernese Mountain Dog",
+        "URL": "https://www.petmd.com/dog/breeds/bernese-mountain-dog",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Mar. 31, 2024"
+    },
+    "Bichon_Frise.txt": {
+        "Topic": "Bichon Frise",
+        "URL": "https://www.petmd.com/dog/breeds/bichon-frise",
+        "Author": "Tiffany Paul, DVM",
+        "Date": "Nov. 18, 2024"
+    },
+    "Biewer_Terrier.txt": {
+        "Topic": "Biewer Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/biewer-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Nov. 21, 2023"
+    },
+    "Black_and_Tan_Coonhound.txt": {
+        "Topic": "Black and Tan Coonhound",
+        "URL": "https://www.petmd.com/dog/breeds/black-tan-coonhound",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Mar. 15, 2024"
+    },
+    "Black_Russian_Terrier.txt": {
+        "Topic": "Black Russian Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/black-russian-terrier",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Jan. 26, 2024"
+    },
+    "Bloodhound.txt": {
+        "Topic": "Bloodhound",
+        "URL": "https://www.petmd.com/dog/breeds/bloodhound",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Jan. 23, 2023"
+    },
+    "Blue_Lacy.txt": {
+        "Topic": "Blue Lacy",
+        "URL": "https://www.petmd.com/dog/breeds/blue-lacy",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 20, 2024"
+    },
+    "Bluetick_Coonhound.txt": {
+        "Topic": "Bluetick Coonhound",
+        "URL": "https://www.petmd.com/dog/breeds/bluetick-coonhound",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 31, 2023"
+    },
+    "Boerboel_(South_African_Mastiff).txt": {
+        "Topic": "Boerboel (South African Mastiff)",
+        "URL": "https://www.petmd.com/dog/breeds/boerboel",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Mar. 15, 2023"
+    },
+    "Bolognese.txt": {
+        "Topic": "Bolognese",
+        "URL": "https://www.petmd.com/dog/breeds/bolognese",
+        "Author": "Jennifer Coates, DVM",
+        "Date": "Apr. 28, 2024"
+    },
+    "Border_Aussie.txt": {
+        "Topic": "Border Aussie",
+        "URL": "https://www.petmd.com/dog/breeds/border-aussie",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 10, 2024"
+    },
+    "Border_Collie.txt": {
+        "Topic": "Border Collie",
+        "URL": "https://www.petmd.com/dog/breeds/border-collie",
+        "Author": "Tiffany Paul, DVM",
+        "Date": "Mar. 3, 2024"
+    },
+    "Border_Terrier.txt": {
+        "Topic": "Border Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/border-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 18, 2023"
+    },
+    "Borzoi.txt": {
+        "Topic": "Borzoi",
+        "URL": "https://www.petmd.com/dog/breeds/borzoi",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 26, 2023"
+    },
+    "Boston_Terrier.txt": {
+        "Topic": "Boston Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/boston-terrier",
+        "Author": "Katherine Smith, DVM, CVA, CVSMT",
+        "Date": "Jun. 18, 2024"
+    },
+    "Bouvier_des_Flandres.txt": {
+        "Topic": "Bouvier des Flandres",
+        "URL": "https://www.petmd.com/dog/breeds/bouvier-des-flandres",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Dec. 21, 2023"
+    },
+    "Boxer.txt": {
+        "Topic": "Boxer",
+        "URL": "https://www.petmd.com/dog/breeds/boxer",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jan. 4, 2024"
+    },
+    "Boykin_Spaniel.txt": {
+        "Topic": "Boykin Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/boykin-spaniel",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 23, 2023"
+    },
+    "Bracco_Italiano.txt": {
+        "Topic": "Bracco Italiano",
+        "URL": "https://www.petmd.com/dog/breeds/bracco-italiano",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Nov. 17, 2024"
+    },
+    "Briard.txt": {
+        "Topic": "Briard",
+        "URL": "https://www.petmd.com/dog/breeds/briard",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 15, 2024"
+    },
+    "Brittany_(Brittany_Spaniel).txt": {
+        "Topic": "Brittany (Brittany Spaniel)",
+        "URL": "https://www.petmd.com/dog/breeds/brittany-spaniel",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 23, 2023"
+    },
+    "Brussels_Griffon.txt": {
+        "Topic": "Brussels Griffon",
+        "URL": "https://www.petmd.com/dog/breeds/brussels-griffon",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Aug. 11, 2022"
+    },
+    "Bullmastiff.txt": {
+        "Topic": "Bullmastiff",
+        "URL": "https://www.petmd.com/dog/breeds/bullmastiff",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Dec. 2, 2022"
+    },
+    "Bull_Terrier.txt": {
+        "Topic": "Bull Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/bull-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 8, 2023"
+    },
+    "Cairn_Terrier.txt": {
+        "Topic": "Cairn Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/cairn-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 1, 2023"
+    },
+    "Canaan_Dog.txt": {
+        "Topic": "Canaan Dog",
+        "URL": "https://www.petmd.com/dog/breeds/canaan-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 30, 2024"
+    },
+    "Cane_Corso.txt": {
+        "Topic": "Cane Corso",
+        "URL": "https://www.petmd.com/dog/breeds/cane-corso",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 19, 2024"
+    },
+    "Cardigan_Welsh_Corgi.txt": {
+        "Topic": "Cardigan Welsh Corgi",
+        "URL": "https://www.petmd.com/dog/breeds/cardigan-welsh-corgi",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 19, 2023"
+    },
+    "Carolina_Dog.txt": {
+        "Topic": "Carolina Dog",
+        "URL": "https://www.petmd.com/dog/breeds/carolina-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 18, 2023"
+    },
+    "Catahoula_Leopard_Dog.txt": {
+        "Topic": "Catahoula Leopard Dog",
+        "URL": "https://www.petmd.com/dog/breeds/catahoula-leopard-dog",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Mar. 13, 2023"
+    },
+    "Caucasian_Shepherd_Dog.txt": {
+        "Topic": "Caucasian Shepherd Dog",
+        "URL": "https://www.petmd.com/dog/breeds/caucasian-shepherd-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 9, 2023"
+    },
+    "Cavalier_King_Charles_Spaniel.txt": {
+        "Topic": "Cavalier King Charles Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/cavalier-king-charles-spaniel",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Nov. 19, 2024"
+    },
+    "Cavapoo.txt": {
+        "Topic": "Cavapoo",
+        "URL": "https://www.petmd.com/dog/breeds/cavapoo",
+        "Author": "Jennifer Coates, DVM",
+        "Date": "Mar. 3, 2025"
+    },
+    "Central_Asian_Shepherd_Dog.txt": {
+        "Topic": "Central Asian Shepherd Dog",
+        "URL": "https://www.petmd.com/dog/breeds/central-asian-shepherd-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 25, 2024"
+    },
+    "Cesky_Terrier.txt": {
+        "Topic": "Cesky Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_cesky_terrier",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 5, 2012"
+    },
+    "Chesapeake_Bay_Retriever.txt": {
+        "Topic": "Chesapeake Bay Retriever",
+        "URL": "https://www.petmd.com/dog/breeds/chesapeake-bay-retriever",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 23, 2023"
+    },
+    "Chihuahua.txt": {
+        "Topic": "Chihuahua",
+        "URL": "https://www.petmd.com/dog/breeds/chihuahua",
+        "Author": "Katie Grzyb, DVM",
+        "Date": "Feb. 19, 2024"
+    },
+    "Chinese_Crested.txt": {
+        "Topic": "Chinese Crested",
+        "URL": "https://www.petmd.com/dog/breeds/chinese-crested",
+        "Author": "Jennifer Coates, DVM",
+        "Date": "Jul. 19, 2023"
+    },
+    "Chinook.txt": {
+        "Topic": "Chinook",
+        "URL": "https://www.petmd.com/dog/breeds/chinook",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Oct. 1, 2024"
+    },
+    "Chipoo.txt": {
+        "Topic": "Chipoo",
+        "URL": "https://www.petmd.com/dog/breeds/chipoo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 22, 2024"
+    },
+    "Chorkie.txt": {
+        "Topic": "Chorkie",
+        "URL": "https://www.petmd.com/dog/breeds/chorkie",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 24, 2024"
+    },
+    "Chow_Chow.txt": {
+        "Topic": "Chow Chow",
+        "URL": "https://www.petmd.com/dog/breeds/chow-chow",
+        "Author": "Autumn Madden, DVM",
+        "Date": "Jun. 19, 2024"
+    },
+    "Chug.txt": {
+        "Topic": "Chug",
+        "URL": "https://www.petmd.com/dog/breeds/chug",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "May 23, 2024"
+    },
+    "Clumber_Spaniel.txt": {
+        "Topic": "Clumber Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/clumber-spaniel",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Jan. 16, 2024"
+    },
+    "Cockapoo.txt": {
+        "Topic": "Cockapoo",
+        "URL": "https://www.petmd.com/dog/breeds/cockapoo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 8, 2023"
+    },
+    "Cocker_Spaniel.txt": {
+        "Topic": "Cocker Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/cocker-spaniel",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Aug. 13, 2024"
+    },
+    "Collie.txt": {
+        "Topic": "Collie",
+        "URL": "https://www.petmd.com/dog/breeds/collie",
+        "Author": "Lauren Jones, VMD",
+        "Date": "Sep. 26, 2022"
+    },
+    "Coton_de_Tulear.txt": {
+        "Topic": "Coton de Tulear",
+        "URL": "https://www.petmd.com/dog/breeds/coton-de-tulear",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 15, 2023"
+    },
+    "Curly-Coated_Retriever.txt": {
+        "Topic": "Curly-Coated Retriever",
+        "URL": "https://www.petmd.com/dog/breeds/curly-coated-retriever",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Nov. 19, 2024"
+    },
+    "Dachshund.txt": {
+        "Topic": "Dachshund",
+        "URL": "https://www.petmd.com/dog/breeds/dachshund",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 18, 2024"
+    },
+    "Dalmatian.txt": {
+        "Topic": "Dalmatian",
+        "URL": "https://www.petmd.com/dog/breeds/dalmatian",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 15, 2023"
+    },
+    "Dandie_Dinmont_Terrier.txt": {
+        "Topic": "Dandie Dinmont Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/dandie-dinmont-terrier",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Dec. 5, 2024"
+    },
+    "Danish-Swedish_Farmdog.txt": {
+        "Topic": "Danish-Swedish Farmdog",
+        "URL": "https://www.petmd.com/dog/breeds/danish-swedish-farmdog",
+        "Author": "Molly Price, DVM",
+        "Date": "Feb. 16, 2025"
+    },
+    "Doberman_Pinscher.txt": {
+        "Topic": "Doberman Pinscher",
+        "URL": "https://www.petmd.com/dog/breeds/doberman-pinscher",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Oct. 31, 2023"
+    },
+    "Dogo_Argentino.txt": {
+        "Topic": "Dogo Argentino",
+        "URL": "https://www.petmd.com/dog/breeds/dogo-argentino",
+        "Author": "Heather Newett, MPH, DVM",
+        "Date": "Nov. 17, 2024"
+    },
+    "Dogue_de_Bordeaux.txt": {
+        "Topic": "Dogue de Bordeaux",
+        "URL": "https://www.petmd.com/dog/breeds/dogue-de-bordeaux",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Sep. 13, 2023"
+    },
+    "Dorgi.txt": {
+        "Topic": "Dorgi",
+        "URL": "https://www.petmd.com/dog/breeds/dorgi",
+        "Author": "Hannah Hart, DVM",
+        "Date": "Dec. 23, 2024"
+    },
+    "Dorkie.txt": {
+        "Topic": "Dorkie",
+        "URL": "https://www.petmd.com/dog/breeds/dorkie",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Feb. 24, 2025"
+    },
+    "Dutch_Shepherd.txt": {
+        "Topic": "Dutch Shepherd",
+        "URL": "https://www.petmd.com/dog/breeds/dutch-shepherd",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 28, 2024"
+    },
+    "English_Cocker_Spaniel.txt": {
+        "Topic": "English Cocker Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/english-cocker-spaniel",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Oct. 17, 2022"
+    },
+    "English_Foxhound.txt": {
+        "Topic": "English Foxhound",
+        "URL": "https://www.petmd.com/dog/breeds/english-foxhound",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Dec. 30, 2024"
+    },
+    "English_Setter.txt": {
+        "Topic": "English Setter",
+        "URL": "https://www.petmd.com/dog/breeds/english-setter",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 27, 2023"
+    },
+    "English_Springer_Spaniel.txt": {
+        "Topic": "English Springer Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/english-springer-spaniel",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 31, 2023"
+    },
+    "English_Toy_Spaniel.txt": {
+        "Topic": "English Toy Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/english-toy-spaniel",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Mar. 26, 2025"
+    },
+    "Entlebucher_Mountain_Dog.txt": {
+        "Topic": "Entlebucher Mountain Dog",
+        "URL": "https://www.petmd.com/dog/breeds/entlebucher-mountain-dog",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Dec. 8, 2024"
+    },
+    "Estrela_Mountain_Dog.txt": {
+        "Topic": "Estrela Mountain Dog",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_estrela_mountain_dog",
+        "Author": "PetMD Editorial",
+        "Date": "Dec. 9, 2011"
+    },
+    "Eurasier.txt": {
+        "Topic": "Eurasier",
+        "URL": "https://www.petmd.com/dog/breeds/eurasier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 29, 2024"
+    },
+    "Field_Spaniel.txt": {
+        "Topic": "Field Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/field-spaniel",
+        "Author": "Tara Hansen, DVM",
+        "Date": "Dec. 23, 2024"
+    },
+    "Finnish_Lapphund.txt": {
+        "Topic": "Finnish Lapphund",
+        "URL": "https://www.petmd.com/dog/breeds/finnish-lapphund",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Apr. 28, 2024"
+    },
+    "Finnish_Spitz.txt": {
+        "Topic": "Finnish Spitz",
+        "URL": "https://www.petmd.com/dog/breeds/finnish-spitz",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 21, 2024"
+    },
+    "Flat-Coated_Retriever.txt": {
+        "Topic": "Flat-Coated Retriever",
+        "URL": "https://www.petmd.com/dog/breeds/flat-coated-retriever",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Sep. 13, 2023"
+    },
+    "French_Bulldog.txt": {
+        "Topic": "French Bulldog",
+        "URL": "https://www.petmd.com/dog/breeds/french-bulldog",
+        "Author": "Melissa Boldan, DVM",
+        "Date": "Mar. 12, 2023"
+    },
+    "Gerberian_Shepsky.txt": {
+        "Topic": "Gerberian Shepsky",
+        "URL": "https://www.petmd.com/dog/breeds/gerberian-shepsky",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 17, 2023"
+    },
+    "German_Pinscher.txt": {
+        "Topic": "German Pinscher",
+        "URL": "https://www.petmd.com/dog/breeds/german-pinscher",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Jan. 30, 2024"
+    },
+    "German_Shepherd.txt": {
+        "Topic": "German Shepherd",
+        "URL": "https://www.petmd.com/dog/breeds/german-shepherd",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 6, 2025"
+    },
+    "German_Shorthaired_Pointer.txt": {
+        "Topic": "German Shorthaired Pointer",
+        "URL": "https://www.petmd.com/dog/breeds/german-shorthaired-pointer",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Jan. 26, 2025"
+    },
+    "German_Spitz.txt": {
+        "Topic": "German Spitz",
+        "URL": "https://www.petmd.com/dog/breeds/german-spitz",
+        "Author": "Jamie Lovejoy, DVM",
+        "Date": "May 30, 2024"
+    },
+    "German_Wirehaired_Pointer.txt": {
+        "Topic": "German Wirehaired Pointer",
+        "URL": "https://www.petmd.com/dog/breeds/german-wirehaired-pointer",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 19, 2023"
+    },
+    "Giant_Schnauzer.txt": {
+        "Topic": "Giant Schnauzer",
+        "URL": "https://www.petmd.com/dog/breeds/giant-schnauzer",
+        "Author": "Emily A. Fassbaugh, DVM",
+        "Date": "Feb. 22, 2023"
+    },
+    "Glen_of_Imaal_Terrier.txt": {
+        "Topic": "Glen of Imaal Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/glen-imaal-terrier",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Dec. 17, 2024"
+    },
+    "Goberian.txt": {
+        "Topic": "Goberian",
+        "URL": "https://www.petmd.com/dog/breeds/goberian",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 19, 2023"
+    },
+    "Goldendoodle.txt": {
+        "Topic": "Goldendoodle",
+        "URL": "https://www.petmd.com/dog/breeds/goldendoodle",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Feb. 17, 2025"
+    },
+    "Golden_Retriever.txt": {
+        "Topic": "Golden Retriever",
+        "URL": "https://www.petmd.com/dog/breeds/golden-retriever",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Oct. 4, 2024"
+    },
+    "Gordon_Setter.txt": {
+        "Topic": "Gordon Setter",
+        "URL": "https://www.petmd.com/dog/breeds/gordon-setter",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 24, 2024"
+    },
+    "Grand_Basset_Griffon_Vend\u00e9en.txt": {
+        "Topic": "Grand Basset Griffon Vend\u00e9en",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_grand-basset-griffon-vendeen",
+        "Author": "PetMD Editorial",
+        "Date": "Feb. 6, 2019"
+    },
+    "Great_Dane.txt": {
+        "Topic": "Great Dane",
+        "URL": "https://www.petmd.com/dog/breeds/great-dane",
+        "Author": "Melissa Boldan, DVM",
+        "Date": "Jun. 11, 2024"
+    },
+    "Greater_Swiss_Mountain_Dog.txt": {
+        "Topic": "Greater Swiss Mountain Dog",
+        "URL": "https://www.petmd.com/dog/breeds/greater-swiss-mountian-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Nov. 29, 2023"
+    },
+    "Great_Pyrenees.txt": {
+        "Topic": "Great Pyrenees",
+        "URL": "https://www.petmd.com/dog/breeds/great-pyrenees",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Sep. 17, 2024"
+    },
+    "Greyhound.txt": {
+        "Topic": "Greyhound",
+        "URL": "https://www.petmd.com/dog/breeds/greyhound",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Aug. 25, 2022"
+    },
+    "Harrier.txt": {
+        "Topic": "Harrier",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_harrier",
+        "Author": "PetMD Editorial",
+        "Date": "Jun. 17, 2009"
+    },
+    "Havanese.txt": {
+        "Topic": "Havanese",
+        "URL": "https://www.petmd.com/dog/breeds/havanese",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jan. 25, 2023"
+    },
+    "Havapoo.txt": {
+        "Topic": "Havapoo",
+        "URL": "https://www.petmd.com/dog/breeds/havapoo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 13, 2024"
+    },
+    "Hokkaido.txt": {
+        "Topic": "Hokkaido",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_hokkaido",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 5, 2012"
+    },
+    "Ibizan_Hound.txt": {
+        "Topic": "Ibizan Hound",
+        "URL": "https://www.petmd.com/dog/breeds/ibizan-hound",
+        "Author": "Molly Price, DVM",
+        "Date": "May 14, 2024"
+    },
+    "Icelandic_Sheepdog.txt": {
+        "Topic": "Icelandic Sheepdog",
+        "URL": "https://www.petmd.com/dog/breeds/icelandic-sheepdog",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Sep. 17, 2024"
+    },
+    "Irish_Doodle.txt": {
+        "Topic": "Irish Doodle",
+        "URL": "https://www.petmd.com/dog/breeds/irish-doodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Dec. 27, 2023"
+    },
+    "Irish_Red_and_White_Setter.txt": {
+        "Topic": "Irish Red and White Setter",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_irish_red_and_white_setter",
+        "Author": "PetMD Editorial",
+        "Date": "Mar. 14, 2012"
+    },
+    "Irish_Setter.txt": {
+        "Topic": "Irish Setter",
+        "URL": "https://www.petmd.com/dog/breeds/irish-setter",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 15, 2023"
+    },
+    "Irish_Terrier.txt": {
+        "Topic": "Irish Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/irish-terrier",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Nov. 27, 2023"
+    },
+    "Irish_Water_Spaniel.txt": {
+        "Topic": "Irish Water Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/irish-water-spaniel",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Mar. 14, 2024"
+    },
+    "Irish_Wolfhound.txt": {
+        "Topic": "Irish Wolfhound",
+        "URL": "https://www.petmd.com/dog/breeds/irish-wolfhound",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Sep. 16, 2024"
+    },
+    "Italian_Greyhound.txt": {
+        "Topic": "Italian Greyhound",
+        "URL": "https://www.petmd.com/dog/breeds/italian-greyhound",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Feb. 8, 2023"
+    },
+    "Jagdterrier.txt": {
+        "Topic": "Jagdterrier",
+        "URL": "https://www.petmd.com/dog/breeds/jagdterrier",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Aug. 26, 2024"
+    },
+    "Japanese_Chin.txt": {
+        "Topic": "Japanese Chin",
+        "URL": "https://www.petmd.com/dog/breeds/japanese-chin",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Nov. 8, 2023"
+    },
+    "Japanese_Spitz.txt": {
+        "Topic": "Japanese Spitz",
+        "URL": "https://www.petmd.com/dog/breeds/japanese-spitz",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Mar. 8, 2024"
+    },
+    "Japanese_Terrier.txt": {
+        "Topic": "Japanese Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_japanese_terrier",
+        "Author": "PetMD Editorial",
+        "Date": "Dec. 9, 2011"
+    },
+    "Jindo.txt": {
+        "Topic": "Jindo",
+        "URL": "https://www.petmd.com/dog/breeds/jindo",
+        "Author": "Tiffany Tupler, DVM, CBCC-KA",
+        "Date": "Jan. 14, 2024"
+    },
+    "Karelian_Bear_Dog.txt": {
+        "Topic": "Karelian Bear Dog",
+        "URL": "https://www.petmd.com/dog/breeds/karelian-bear-dog",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Jul. 30, 2024"
+    },
+    "Keeshond.txt": {
+        "Topic": "Keeshond",
+        "URL": "https://www.petmd.com/dog/breeds/keeshond",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Sep. 22, 2023"
+    },
+    "Kerry_Blue_Terrier.txt": {
+        "Topic": "Kerry Blue Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/kerry-blue-terrier",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "May 22, 2024"
+    },
+    "Kishu_Ken.txt": {
+        "Topic": "Kishu Ken",
+        "URL": "https://www.petmd.com/dog/breeds/kishu-ken",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Oct. 2, 2024"
+    },
+    "Komondor.txt": {
+        "Topic": "Komondor",
+        "URL": "https://www.petmd.com/dog/breeds/komondor",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 9, 2023"
+    },
+    "Kuvasz.txt": {
+        "Topic": "Kuvasz",
+        "URL": "https://www.petmd.com/dog/breeds/kuvasz",
+        "Author": "Kelly Gold, DVM",
+        "Date": "May 21, 2024"
+    },
+    "Labradoodle.txt": {
+        "Topic": "Labradoodle",
+        "URL": "https://www.petmd.com/dog/breeds/labradoodle",
+        "Author": "Jo Cornett, DVM.",
+        "Date": "Jan. 16, 2025"
+    },
+    "Labrador_Retriever.txt": {
+        "Topic": "Labrador Retriever",
+        "URL": "https://www.petmd.com/dog/breeds/labrador-retriever",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Nov. 12, 2024"
+    },
+    "Lagotto_Romagnolo.txt": {
+        "Topic": "Lagotto Romagnolo",
+        "URL": "https://www.petmd.com/dog/breeds/lagotto-romagnolo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 23, 2023"
+    },
+    "Lakeland_Terrier.txt": {
+        "Topic": "Lakeland Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/lakeland-terrier",
+        "Author": "Jamie Lovejoy, DVM",
+        "Date": "Aug. 6, 2024"
+    },
+    "Lancashire_Heeler.txt": {
+        "Topic": "Lancashire Heeler",
+        "URL": "https://www.petmd.com/dog/breeds/lancashire-heeler",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Feb. 18, 2024"
+    },
+    "Leonberger.txt": {
+        "Topic": "Leonberger",
+        "URL": "https://www.petmd.com/dog/breeds/leonberger",
+        "Author": "Katie Grzyb, DVM",
+        "Date": "Mar. 14, 2023"
+    },
+    "Lhasa_Apso.txt": {
+        "Topic": "Lhasa Apso",
+        "URL": "https://www.petmd.com/dog/breeds/lhasa-apso",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jan. 6, 2025"
+    },
+    "L\u00f6wchen.txt": {
+        "Topic": "L\u00f6wchen",
+        "URL": "https://www.petmd.com/dog/breeds/lowchen",
+        "Author": "Molly Price, DVM",
+        "Date": "Jan. 23, 2025"
+    },
+    "Malshi.txt": {
+        "Topic": "Malshi",
+        "URL": "https://www.petmd.com/dog/breeds/malshi",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Dec. 5, 2023"
+    },
+    "Maltese.txt": {
+        "Topic": "Maltese",
+        "URL": "https://www.petmd.com/dog/breeds/maltese",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Oct. 1, 2024"
+    },
+    "Maltipoo.txt": {
+        "Topic": "Maltipoo",
+        "URL": "https://www.petmd.com/dog/breeds/maltipoo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 2, 2023"
+    },
+    "Manchester_Terrier.txt": {
+        "Topic": "Manchester Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/manchester-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 25, 2024"
+    },
+    "Mastiff.txt": {
+        "Topic": "Mastiff",
+        "URL": "https://www.petmd.com/dog/breeds/mastiff",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Jan. 20, 2023"
+    },
+    "Miniature_American_Shepherd.txt": {
+        "Topic": "Miniature American Shepherd",
+        "URL": "https://www.petmd.com/dog/breeds/miniature-american-shepherd",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Dec. 21, 2023"
+    },
+    "Miniature_Bull_Terrier.txt": {
+        "Topic": "Miniature Bull Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/miniature-bull-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 19, 2024"
+    },
+    "Miniature_Pinscher.txt": {
+        "Topic": "Miniature Pinscher",
+        "URL": "https://www.petmd.com/dog/breeds/miniature-pinscher",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 5, 2023"
+    },
+    "Miniature_Poodle.txt": {
+        "Topic": "Miniature Poodle",
+        "URL": "https://www.petmd.com/dog/breeds/miniature-poodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 8, 2023"
+    },
+    "Miniature_Schnauzer.txt": {
+        "Topic": "Miniature Schnauzer",
+        "URL": "https://www.petmd.com/dog/breeds/miniature-schnauzer",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 24, 2023"
+    },
+    "Morkie.txt": {
+        "Topic": "Morkie",
+        "URL": "https://www.petmd.com/dog/breeds/morkie",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 12, 2023"
+    },
+    "Mountain_Cur.txt": {
+        "Topic": "Mountain Cur",
+        "URL": "https://www.petmd.com/dog/breeds/mountain-cur",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Aug. 18, 2023"
+    },
+    "Mudi.txt": {
+        "Topic": "Mudi",
+        "URL": "https://www.petmd.com/dog/breeds/mudi",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 30, 2024"
+    },
+    "Neapolitan_Mastiff.txt": {
+        "Topic": "Neapolitan Mastiff",
+        "URL": "https://www.petmd.com/dog/breeds/neapolitan-mastiff",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 15, 2023"
+    },
+    "Nederlandse_Kooikerhondje.txt": {
+        "Topic": "Nederlandse Kooikerhondje",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_nederlandse-kooikerhondje",
+        "Author": "PetMD Editorial",
+        "Date": "Feb. 6, 2019"
+    },
+    "Newfoundland.txt": {
+        "Topic": "Newfoundland",
+        "URL": "https://www.petmd.com/dog/breeds/newfoundland",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jan. 26, 2025"
+    },
+    "Norfolk_Terrier.txt": {
+        "Topic": "Norfolk Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/norfolk-terrier",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jan. 8, 2024"
+    },
+    "Norwegian_Elkhound.txt": {
+        "Topic": "Norwegian Elkhound",
+        "URL": "https://www.petmd.com/dog/breeds/norwegian-elkhound",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 23, 2023"
+    },
+    "Norwegian_Lundehund.txt": {
+        "Topic": "Norwegian Lundehund",
+        "URL": "https://www.petmd.com/dog/breeds/norwegian-lundehund",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 10, 2024"
+    },
+    "Norwich_Terrier.txt": {
+        "Topic": "Norwich Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/norwich-terrier",
+        "Author": "Georgina Ushi, DVM",
+        "Date": "Jan. 12, 2024"
+    },
+    "Nova_Scotia_Duck_Tolling_Retriever.txt": {
+        "Topic": "Nova Scotia Duck Tolling Retriever",
+        "URL": "https://www.petmd.com/dog/breeds/nova-scotia-duck-tolling-retriever",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Jul. 10, 2023"
+    },
+    "Old_English_Sheepdog.txt": {
+        "Topic": "Old English Sheepdog",
+        "URL": "https://www.petmd.com/dog/breeds/old-english-sheepdog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 23, 2023"
+    },
+    "Otterhound.txt": {
+        "Topic": "Otterhound",
+        "URL": "https://www.petmd.com/dog/breeds/otterhound",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Aug. 27, 2024"
+    },
+    "Papillon.txt": {
+        "Topic": "Papillon",
+        "URL": "https://www.petmd.com/dog/breeds/papillon",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Feb. 24, 2025"
+    },
+    "Parson_Jack_Russell_Terrier.txt": {
+        "Topic": "Parson Jack Russell Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/parson-jack-russell-terrier",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Oct. 17, 2022"
+    },
+    "Pekingese.txt": {
+        "Topic": "Pekingese",
+        "URL": "https://www.petmd.com/dog/breeds/pekingese",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Mar. 17, 2023"
+    },
+    "Pembroke_Welsh_Corgi.txt": {
+        "Topic": "Pembroke Welsh Corgi",
+        "URL": "https://www.petmd.com/dog/breeds/pembroke-welsh-corgi",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 19, 2022"
+    },
+    "Petit_Basset_Griffon_Vend\u00e9en.txt": {
+        "Topic": "Petit Basset Griffon Vend\u00e9en",
+        "URL": "https://www.petmd.com/dog/breeds/petit-basset-griffon-vendeen",
+        "Author": "Jennifer Coates, DVM",
+        "Date": "Jun. 26, 2023"
+    },
+    "Pharaoh_Hound.txt": {
+        "Topic": "Pharaoh Hound",
+        "URL": "https://www.petmd.com/dog/breeds/pharaoh-hound",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Dec. 21, 2023"
+    },
+    "Plott_Hound.txt": {
+        "Topic": "Plott Hound",
+        "URL": "https://www.petmd.com/dog/breeds/plott-hound",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 4, 2023"
+    },
+    "Pointer.txt": {
+        "Topic": "Pointer",
+        "URL": "https://www.petmd.com/dog/breeds/pointer",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Sep. 23, 2022"
+    },
+    "Polish_Lowland_Sheepdog.txt": {
+        "Topic": "Polish Lowland Sheepdog",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_polish_lowland_sheepdog",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 24, 2009"
+    },
+    "Pomchi.txt": {
+        "Topic": "Pomchi",
+        "URL": "https://www.petmd.com/dog/breeds/pomchi",
+        "Author": "Tara Hansen, DVM",
+        "Date": "Aug. 18, 2024"
+    },
+    "Pomeranian.txt": {
+        "Topic": "Pomeranian",
+        "URL": "https://www.petmd.com/dog/breeds/pomeranian",
+        "Author": "Autumn Madden, DVM",
+        "Date": "Aug. 13, 2024"
+    },
+    "Pomsky.txt": {
+        "Topic": "Pomsky",
+        "URL": "https://www.petmd.com/dog/breeds/pomsky",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jul. 11, 2023"
+    },
+    "Portuguese_Water_Dog.txt": {
+        "Topic": "Portuguese Water Dog",
+        "URL": "https://www.petmd.com/dog/breeds/portuguese-water-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 2, 2023"
+    },
+    "Pudelpointer.txt": {
+        "Topic": "Pudelpointer",
+        "URL": "https://www.petmd.com/dog/breeds/pudelpointer",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Mar. 8, 2024"
+    },
+    "Pug.txt": {
+        "Topic": "Pug",
+        "URL": "https://www.petmd.com/dog/breeds/pug",
+        "Author": "Emily A. Fassbaugh, DVM",
+        "Date": "Jun. 17, 2024"
+    },
+    "Puggle.txt": {
+        "Topic": "Puggle",
+        "URL": "https://www.petmd.com/dog/breeds/puggle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 13, 2023"
+    },
+    "Puli.txt": {
+        "Topic": "Puli",
+        "URL": "https://www.petmd.com/dog/breeds/puli",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "May 24, 2024"
+    },
+    "Pumi.txt": {
+        "Topic": "Pumi",
+        "URL": "https://www.petmd.com/dog/breeds/pumi",
+        "Author": "Teresa Manucy, DVM",
+        "Date": "Jan. 19, 2025"
+    },
+    "Pyrenean_Mastiff.txt": {
+        "Topic": "Pyrenean Mastiff",
+        "URL": "https://www.petmd.com/dog/breeds/pyrenean-mastiff",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 17, 2024"
+    },
+    "Rafeiro_do_Alentejo.txt": {
+        "Topic": "Rafeiro do Alentejo",
+        "URL": "https://www.petmd.com/dog/breeds/rafeiro-do-alentejo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Nov. 3, 2024"
+    },
+    "Rat_Terrier.txt": {
+        "Topic": "Rat Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/rat-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 5, 2023"
+    },
+    "Redbone_Coonhound.txt": {
+        "Topic": "Redbone Coonhound",
+        "URL": "https://www.petmd.com/dog/breeds/redbone-coonhound",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Aug. 16, 2023"
+    },
+    "Rhodesian_Ridgeback.txt": {
+        "Topic": "Rhodesian Ridgeback",
+        "URL": "https://www.petmd.com/dog/breeds/rhodesian-ridgeback",
+        "Author": "Lauren Jones, VMD",
+        "Date": "Aug. 29, 2024"
+    },
+    "Rottweiler.txt": {
+        "Topic": "Rottweiler",
+        "URL": "https://www.petmd.com/dog/breeds/rottweiler",
+        "Author": "Heather Newett, MPH, DVM",
+        "Date": "Dec. 7, 2023"
+    },
+    "Russell_Terrier.txt": {
+        "Topic": "Russell Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/russell-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 28, 2024"
+    },
+    "Saint_Bernard.txt": {
+        "Topic": "Saint Bernard",
+        "URL": "https://www.petmd.com/dog/breeds/saint-bernard",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Jun. 24, 2024"
+    },
+    "Saluki.txt": {
+        "Topic": "Saluki",
+        "URL": "https://www.petmd.com/dog/breeds/saluki",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Jul. 18, 2023"
+    },
+    "Samoyed.txt": {
+        "Topic": "Samoyed",
+        "URL": "https://www.petmd.com/dog/breeds/samoyed",
+        "Author": "Janelle Priestas, DVM",
+        "Date": "Oct. 1, 2024"
+    },
+    "Schipperke.txt": {
+        "Topic": "Schipperke",
+        "URL": "https://www.petmd.com/dog/breeds/schipperke",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Sep. 15, 2023"
+    },
+    "Schnoodle.txt": {
+        "Topic": "Schnoodle",
+        "URL": "https://www.petmd.com/dog/breeds/schnoodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jun. 23, 2023"
+    },
+    "Scottish_Deerhound.txt": {
+        "Topic": "Scottish Deerhound",
+        "URL": "https://www.petmd.com/dog/breeds/scottish-deerhound",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 24, 2024"
+    },
+    "Scottish_Terrier.txt": {
+        "Topic": "Scottish Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/scottish-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 23, 2024"
+    },
+    "Sealyham_Terrier.txt": {
+        "Topic": "Sealyham Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_sealyham_terrier",
+        "Author": "PetMD Editorial",
+        "Date": "Oct. 6, 2009"
+    },
+    "Shar-Pei.txt": {
+        "Topic": "Shar-Pei",
+        "URL": "https://www.petmd.com/dog/breeds/shar-pei",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Oct. 24, 2022"
+    },
+    "Sheepadoodle.txt": {
+        "Topic": "Sheepadoodle",
+        "URL": "https://www.petmd.com/dog/breeds/sheepadoodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 17, 2023"
+    },
+    "Shepadoodle.txt": {
+        "Topic": "Shepadoodle",
+        "URL": "https://www.petmd.com/dog/breeds/shepadoodle",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 26, 2024"
+    },
+    "Sheprador.txt": {
+        "Topic": "Sheprador",
+        "URL": "https://www.petmd.com/dog/breeds/sheprador",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 24, 2024"
+    },
+    "Shetland_Sheepdog_(Sheltie).txt": {
+        "Topic": "Shetland Sheepdog (Sheltie)",
+        "URL": "https://www.petmd.com/dog/breeds/shetland-sheepdog",
+        "Author": "Teresa Kho-Pelfrey, DVM",
+        "Date": "Jul. 10, 2023"
+    },
+    "Shiba_Inu.txt": {
+        "Topic": "Shiba Inu",
+        "URL": "https://www.petmd.com/dog/breeds/shiba-inu",
+        "Author": "Emily A. Fassbaugh, DVM",
+        "Date": "Oct. 24, 2023"
+    },
+    "Shichon.txt": {
+        "Topic": "Shichon",
+        "URL": "https://www.petmd.com/dog/breeds/shichon",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 26, 2024"
+    },
+    "Shih-Poo.txt": {
+        "Topic": "Shih-Poo",
+        "URL": "https://www.petmd.com/dog/breeds/shih-poo",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Aug. 21, 2023"
+    },
+    "Shih_Tzu.txt": {
+        "Topic": "Shih Tzu",
+        "URL": "https://www.petmd.com/dog/breeds/shih-tzu",
+        "Author": "Katie Grzyb, DVM",
+        "Date": "Dec. 8, 2024"
+    },
+    "Shikoku.txt": {
+        "Topic": "Shikoku",
+        "URL": "https://www.petmd.com/dog/breeds/shikoku",
+        "Author": "Molly Price, DVM",
+        "Date": "Feb. 23, 2025"
+    },
+    "Shorkie.txt": {
+        "Topic": "Shorkie",
+        "URL": "https://www.petmd.com/dog/breeds/shorkie",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Feb. 8, 2024"
+    },
+    "Siberian_Husky.txt": {
+        "Topic": "Siberian Husky",
+        "URL": "https://www.petmd.com/dog/breeds/siberian-husky",
+        "Author": "Tiffany Paul, DVM",
+        "Date": "Aug. 7, 2024"
+    },
+    "Silky_Terrier.txt": {
+        "Topic": "Silky Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/silky-terrier",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Feb. 20, 2024"
+    },
+    "Skye_Terrier.txt": {
+        "Topic": "Skye Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/skye-terrier",
+        "Author": "Molly Price, DVM",
+        "Date": "Nov. 19, 2024"
+    },
+    "Sloughi.txt": {
+        "Topic": "Sloughi",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_sloughi",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 17, 2012"
+    },
+    "Smooth_Fox_Terrier.txt": {
+        "Topic": "Smooth Fox Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/smooth-fox-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Sep. 10, 2024"
+    },
+    "Soft_Coated_Wheaten_Terrier.txt": {
+        "Topic": "Soft Coated Wheaten Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/soft-coated-wheaten-terrier",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Dec. 4, 2023"
+    },
+    "Spanish_Mastiff.txt": {
+        "Topic": "Spanish Mastiff",
+        "URL": "https://www.petmd.com/dog/breeds/spanish-mastiff",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Aug. 27, 2024"
+    },
+    "Spanish_Water_Dog.txt": {
+        "Topic": "Spanish Water Dog",
+        "URL": "https://www.petmd.com/dog/breeds/spanish-water-dog",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Mar. 24, 2024"
+    },
+    "Spinone_Italiano.txt": {
+        "Topic": "Spinone Italiano",
+        "URL": "https://www.petmd.com/dog/breeds/spinone-italiano",
+        "Author": "Molly Price, DVM",
+        "Date": "Mar. 26, 2025"
+    },
+    "Staffordshire_Bull_Terrier.txt": {
+        "Topic": "Staffordshire Bull Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/staffordshire-bull-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 21, 2023"
+    },
+    "Standard_Poodle.txt": {
+        "Topic": "Standard Poodle",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_poodle",
+        "Author": "Emily A. Fassbaugh, DVM",
+        "Date": "Nov. 7, 2022"
+    },
+    "Standard_Schnauzer.txt": {
+        "Topic": "Standard Schnauzer",
+        "URL": "https://www.petmd.com/dog/breeds/standard-schnauzer",
+        "Author": "Katie Grzyb, DVM",
+        "Date": "Oct. 14, 2022"
+    },
+    "Sussex_Spaniel.txt": {
+        "Topic": "Sussex Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_sussex_spaniel",
+        "Author": "PetMD Editorial",
+        "Date": "Oct. 6, 2009"
+    },
+    "Swedish_Vallhund.txt": {
+        "Topic": "Swedish Vallhund",
+        "URL": "https://www.petmd.com/dog/breeds/swedish-valhund",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Mar. 25, 2024"
+    },
+    "Texas_Heeler.txt": {
+        "Topic": "Texas Heeler",
+        "URL": "https://www.petmd.com/dog/breeds/texas-heeler",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Oct. 9, 2023"
+    },
+    "Thai_Ridgeback.txt": {
+        "Topic": "Thai Ridgeback",
+        "URL": "https://www.petmd.com/dog/breeds/thai-ridgeback",
+        "Author": "Michelle Diener, DVM",
+        "Date": "May 16, 2024"
+    },
+    "Tibetan_Mastiff.txt": {
+        "Topic": "Tibetan Mastiff",
+        "URL": "https://www.petmd.com/dog/breeds/tibetan-mastiff",
+        "Author": "Janelle Priestas, DVM",
+        "Date": "Jan. 22, 2023"
+    },
+    "Tibetan_Spaniel.txt": {
+        "Topic": "Tibetan Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/tibetan-spaniel",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Apr. 11, 2024"
+    },
+    "Tibetan_Terrier.txt": {
+        "Topic": "Tibetan Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/tibetan-terrier",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Nov. 19, 2023"
+    },
+    "Toy_Fox_Terrier.txt": {
+        "Topic": "Toy Fox Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/toy-fox-terrier",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 25, 2024"
+    },
+    "Toy_Manchester_Terrier.txt": {
+        "Topic": "Toy Manchester Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_toy_manchester_terrier",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 10, 2009"
+    },
+    "Toy_Poodle.txt": {
+        "Topic": "Toy Poodle",
+        "URL": "https://www.petmd.com/dog/breeds/toy-poodle",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Mar. 6, 2025"
+    },
+    "Transylvanian_Hound.txt": {
+        "Topic": "Transylvanian Hound",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_transylvanian_hound",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 18, 2012"
+    },
+    "Treeing_Walker_Coonhound.txt": {
+        "Topic": "Treeing Walker Coonhound",
+        "URL": "https://www.petmd.com/dog/breeds/treeing-walker-coonhound",
+        "Author": "Jamie Lovejoy, DVM",
+        "Date": "Dec. 15, 2023"
+    },
+    "Vizsla.txt": {
+        "Topic": "Vizsla",
+        "URL": "https://www.petmd.com/dog/breeds/vizsla",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 8, 2023"
+    },
+    "Volpino_Italiano.txt": {
+        "Topic": "Volpino Italiano",
+        "URL": "https://www.petmd.com/dog/breeds/c_dg_volpino_italiano",
+        "Author": "PetMD Editorial",
+        "Date": "Sep. 18, 2012"
+    },
+    "Weimaraner.txt": {
+        "Topic": "Weimaraner",
+        "URL": "https://www.petmd.com/dog/breeds/weimaraner",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Jan. 2, 2025"
+    },
+    "Welsh_Springer_Spaniel.txt": {
+        "Topic": "Welsh Springer Spaniel",
+        "URL": "https://www.petmd.com/dog/breeds/welsh-springer-spaniel",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Aug. 4, 2024"
+    },
+    "Welsh_Terrier.txt": {
+        "Topic": "Welsh Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/welsh-terrier",
+        "Author": "Michelle Diener, DVM",
+        "Date": "Feb. 13, 2024"
+    },
+    "West_Highland_White_Terrier_(Westie).txt": {
+        "Topic": "West Highland White Terrier (Westie)",
+        "URL": "https://www.petmd.com/dog/breeds/west-highland-white-terrier",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Sep. 27, 2023"
+    },
+    "Whippet.txt": {
+        "Topic": "Whippet",
+        "URL": "https://www.petmd.com/dog/breeds/whippet",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 15, 2023"
+    },
+    "Whoodle.txt": {
+        "Topic": "Whoodle",
+        "URL": "https://www.petmd.com/dog/breeds/whoodle",
+        "Author": "Veronica Higgs, DVM",
+        "Date": "Dec. 19, 2023"
+    },
+    "Wire_Fox_Terrier.txt": {
+        "Topic": "Wire Fox Terrier",
+        "URL": "https://www.petmd.com/dog/breeds/wire-fox-terrier",
+        "Author": "Jamie Lovejoy, DVM",
+        "Date": "Feb. 9, 2024"
+    },
+    "Wirehaired_Pointing_Griffon.txt": {
+        "Topic": "Wirehaired Pointing Griffon",
+        "URL": "https://www.petmd.com/dog/breeds/wirehaired-pointing-griffon",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Dec. 3, 2023"
+    },
+    "Wirehaired_Vizsla.txt": {
+        "Topic": "Wirehaired Vizsla",
+        "URL": "https://www.petmd.com/dog/breeds/wirehaired-vizsla",
+        "Author": "Tara Hansen, DVM",
+        "Date": "Dec. 16, 2024"
+    },
+    "Xoloitzcuintli_(Mexican_Hairless).txt": {
+        "Topic": "Xoloitzcuintli (Mexican Hairless)",
+        "URL": "https://www.petmd.com/dog/breeds/xoloitzcuintli",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "May 9, 2023"
+    },
+    "Yorkiepoo.txt": {
+        "Topic": "Yorkiepoo",
+        "URL": "https://www.petmd.com/dog/breeds/yorkiepoo",
+        "Author": "Barri J. Morrison, DVM",
+        "Date": "Feb. 28, 2023"
+    },
+    "Yorkshire_Terrier_(Yorkie).txt": {
+        "Topic": "Yorkshire Terrier (Yorkie)",
+        "URL": "https://www.petmd.com/dog/breeds/yorkshire-terrier",
+        "Author": "Virginia LaMon, DVM",
+        "Date": "Jun. 24, 2024"
+    }
+}
