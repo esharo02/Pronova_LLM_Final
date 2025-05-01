@@ -38,6 +38,7 @@ if not Qdrant_url:
 try:
     Qclient = QdrantClient(
         url= Qdrant_url,
+        check_compatibility=False,
         api_key=Qdrant_api_key
     )
     print("Successfully connected to Qdrant")
