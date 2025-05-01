@@ -287,6 +287,7 @@ def query_llm():
     try:
         updated_queries, updated_contexts, updated_responses, updated_files = generate_response(collection_name, new_query, queries, contexts, responses, files)
         # print(updated_files)
+        print("is this on?")
         data = {
             'queries': updated_queries,
             'contexts': updated_contexts,
